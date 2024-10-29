@@ -93,7 +93,7 @@ plt.show()
 # Output:
 ![download](https://github.com/user-attachments/assets/ef163de2-5bb1-47d3-8e0d-8acf2656aac9)
 ![download](https://github.com/user-attachments/assets/ea839fd1-e240-45ab-a683-1d42ec2f78b8)
-![download](https://github.com/user-attachments/assets/78373dfc-ddd2-4dcc-a4c3-786678405707)
+![download](https://github.com/user-attachments/assets/19b0ae56-90f3-4a59-9d50-3e08a05c9937)
 ![download](https://github.com/user-attachments/assets/16f60b87-3108-43ad-b744-659f02e7c81b)
 ![download](https://github.com/user-attachments/assets/1850efaa-0e09-4036-98db-e9a330454d94)
 
