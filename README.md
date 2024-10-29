@@ -1,4 +1,6 @@
 # DiptExp
+Name:Sarvesh s
+Reg no:212222230135
 # Basic image manipulation
 
 ```
